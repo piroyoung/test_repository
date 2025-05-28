@@ -1,3 +1,3 @@
 # test_repository
 
-* added text
+* TODO: Add a detailed description of the repository's purpose and contents.
